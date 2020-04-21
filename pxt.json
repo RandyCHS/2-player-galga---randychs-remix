@@ -1,16 +1,16 @@
 {
     "name": "2 PLAYER GALGA - randychs remix",
+    "description": "",
     "dependencies": {
         "device": "*"
     },
-    "description": "",
     "files": [
         "main.blocks",
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
